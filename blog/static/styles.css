@@ -1,6 +1,11 @@
-.blog-title {
+a {
+	color: inherit;
+}
+
+h1 {
 	font-family: Lobster;
-	color: red;
+	color: #dd3497;
+	font-size: 50px;
 }
 
 .post-title {
